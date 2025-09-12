@@ -8,4 +8,4 @@ Therefore, kicking barrel table is removed temporary.
 TODO:
 
 1. find correct kicking barrel animation frame data.
-2. find correct barbarian mercenary's attack animations frame data.
+2. find correct barbarian mercenary's attack animations frame data. (complete)
