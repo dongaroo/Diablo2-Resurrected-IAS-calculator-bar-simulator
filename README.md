@@ -1,4 +1,5 @@
 # Diablo2-Resurrected-IAS-calculator-bar-simulator
+react-vite build
 
 NOTE: 
 
