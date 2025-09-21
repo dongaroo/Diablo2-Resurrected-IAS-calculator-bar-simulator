@@ -10,3 +10,8 @@ TODO:
 
 1. find correct kicking barrel animation frame data.
 2. find correct barbarian mercenary's attack animations frame data. (complete)
+
+
+version 3.10:
+
+useStates are unified. bug report linked.
