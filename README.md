@@ -15,3 +15,6 @@ TODO:
 version 3.10:
 
 useStates are unified. bug report linked.
+
+version 3.20:
+wereform animation speed calculation is fixed. (wereformA1Frame / humanformA1Frame) ratio is multiplied by animationSpeed and floored
