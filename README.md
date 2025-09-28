@@ -16,3 +16,6 @@ version 3.10:
 
 useStates are unified. bug report linked.
 
+version 3.20:
+
+dual-wield skill's averageWSM,averageIEIAS are available half-integer and EIAS is truncated
