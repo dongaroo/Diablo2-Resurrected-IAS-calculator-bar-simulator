@@ -24,3 +24,7 @@ version 3.30:
 
 react compiler activated
 act5 merc debug
+
+version 3.31: 
+
+act5 frenzy merc add frenzy buff 
