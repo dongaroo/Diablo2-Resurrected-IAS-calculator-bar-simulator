@@ -28,3 +28,6 @@ act5 merc debug
 version 3.31: 
 
 act5 frenzy merc add frenzy buff 
+
+final:
+new WARLOCK IAS calculator link added
